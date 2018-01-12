@@ -36,5 +36,6 @@ This explains light wave/particle duality. Things never changing results in part
 The former happens in a unit of time, the latter over a series of unit times. Time that we percieve is therefore actually space.
 In one unit of time, all laws change. In the second unit, all laws change, excluding itself. In the third unit, all laws change, excluding itself. ... In the nth unit, all laws change, excluding itself.
 There are therefore three classes of things in the universe.
+There is self similarity between n=[0 .. 1] and n=[2 .. infinity]
 
 Attachment is conditioning facilitated by (chronic) inflammation.
