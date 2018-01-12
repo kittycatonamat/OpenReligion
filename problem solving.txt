@@ -1,3 +1,14 @@
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
 1. Change your environment. [why does this work?]
 2. Understand the problem to be solved.
 3. Implement the solution.
+
+--
+
+General problem solving algorithm:
+
+1. Contemplate the problem.
+2. Wait until an idea comes through intuition.
+3. Think about the answer and refine it.
+4. Repeat from 1) for any edge cases you think of.
