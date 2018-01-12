@@ -10,7 +10,7 @@ General problem solving algorithm:
 
 1. Contemplate the problem.
 2. Wait until an idea comes through intuition.
-3. Think about the answer and refine it.
+3. Think about the answer and refine it by testing it under conditions where it wouldn't work.
 4. Repeat from 1) for any edge cases you think of.
 
 Patent pending.
