@@ -1,6 +1,6 @@
 This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
-1. Change your environment. [why does this work?]
+1. Change your environment. [why does this work?] Because all roads lead to Rome. As long as you are changing something, you get closer. The path is any path. You are on the path of you are changing.
 2. Understand the problem to be solved.
 3. Implement the solution.
 
