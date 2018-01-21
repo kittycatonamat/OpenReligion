@@ -13,7 +13,7 @@ The reason we fight is that we get too stressed out, don't listen to each other,
 
 We end up with addictions because of this stress, whether to money which causes the wealth inequality gap to grow; to drugs which causes families to break apart, traumatising its members and creating yet more stress and addiction; to gambling, resulting in poverty and yet more stress; to violence and abuse, resulting in more trauma; or to sex, resulting in social isolation and stress [citations needed].
 
-Both excitement and stress cause inflammation which makes dopamine more tasty to our brains [citation needed]. This is where impulsive behaviour originates. If our environment is stressful then we can fall into a state of chronic stress/inflammation and addiction [citation needed].]
+Both excitement and stress cause inflammation which makes dopamine more tasty to our brains [citation needed]. This is where impulsive behaviour originates. If our environment is stressful then we can fall into a state of chronic stress/inflammation and addiction [citation needed].
 
 Contact us
 -----------
